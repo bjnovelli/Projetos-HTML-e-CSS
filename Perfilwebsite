@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+       
+        <title>Portif</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        </header></header>
+
+
+    <main>  
+     <h1> <center> Currículo de estudante de TI aprendendo <strong> HTML e CSS </strong> </h1> </center> 
+     
+     
+     <p>   Olá, meu nome é Bruna Jesus, sou estudante de programação. 
+      Estou cursando Ciências da Computação, sejam bem vindos a minha página. </p>
+      
+      <br> <a href="https://www.linkedin.com/in/bruna-jesus-b81820230" target="_blank"> <input type="button" value="Linkedin"</a>
+      <a href="https://github.com/bjnovelli?tab=repositories" target="_blank"><input type="button" value="Github"</a> 
+      </br>
+      <img src="novelli.jpg" alt="Bruna Jesus>"
+     </main>
+        <footer> </footer>        
+    </body>
+</html>
