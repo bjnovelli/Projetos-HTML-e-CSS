@@ -19,4 +19,7 @@ CSS é chamado de linguagem Cascading Style Sheet e é usado para estilizar elem
 <p>Construindo um Website usando HTML e usando alguns recursos para estilizar a página. Incluindo botões que direciona para o GITHUB e Linkedn.
 Recursos usados : DOCTYPE HTML, img str=(incluir a imagem),a href = incluir o link, Botton =inclui botões. </p>
 
+## 2- Criando um página web com objetivo de informar a previsão do tempo 03/02/2024
+<p> Página web com informações do tempo. Usando CSS e HTML.</p>
+
 
