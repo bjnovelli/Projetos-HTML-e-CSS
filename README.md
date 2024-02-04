@@ -22,4 +22,10 @@ Recursos usados : DOCTYPE HTML, img str=(incluir a imagem),a href = incluir o li
 ## 2- Criando um página web com objetivo de informar a previsão do tempo 03/02/2024
 <p> Página web com informações do tempo. Usando CSS e HTML.</p>
 
+## 3- Projeto landing page com HTML 03/02/2024
+<p> Projeto feito com HTML e estilização do CSS, baiscamente uma página de cadastro ficticia.</p>
+<br> Referência: </b>
+<br> </b>https://www.youtube.com/watch?v=edDCEK5QWE8 </br>
+
+
 
