@@ -1,0 +1,74 @@
+
+
+!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dia dos Namorados</title>
+<style>
+         
+body{
+     background-color: red;
+        }
+
+
+
+     .painel{
+     background-color: white;
+     margin:auto;
+     width: 500px;
+     height: 500px;
+     border-radius:20px;
+     text-align: center;
+     padding-top:50px;
+     font-family:'Franklin Gothic Medium','Arial Narrow',Arial,sans-serif;
+        
+        }
+    
+     #sim {
+        
+     height: 40px;
+     width: 60px;
+     background-color: red;
+     border: white ;
+     border-radius:10px;
+    color: white;
+     margin-left:-40px;
+
+     }
+
+
+     
+
+
+
+ </style>
+ 
+    
+
+
+ </head>
+ <body>
+ <div class="painel">
+   
+ <h1>Dia dos Namorados</h1>
+ <h2> Aceita namorar comigo ? </h2>
+
+ <img src="https://gifman.net/wp-content/uploads/2019/06/ursinho-fofo-apaixonado.gif">
+
+
+
+ <center> <button id="sim">SIM</button> </center>
+ 
+
+        
+
+ </div>
+   
+
+    
+
+
+ </body>
+ </html>
