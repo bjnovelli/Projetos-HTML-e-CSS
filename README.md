@@ -27,5 +27,13 @@ Recursos usados : DOCTYPE HTML, img str=(incluir a imagem),a href = incluir o li
 <br> Referência: </b>
 <br> </b>https://www.youtube.com/watch?v=edDCEK5QWE8 </br>
 
+## 4- Portifolio HTML e CSS 29/02/2024 
+  
+<p> Construindo um Website usando HTML e usando alguns recursos para estilizar a página. Incluindo botões que direciona para o GITHUB e Linkedn.
+Recursos usados : DOCTYPE HTML, img str=(incluir a imagem),a href = incluir o link, Botton =inclui botões. </p>
+Esse projeto é atualização do projeto <b>1- Criando um site (25-01-2024) </b>, ele tem algumas informações minhas. 
+
+<br> Referência: </b>
+Site da Alura - Cursos em HTML E CSS para iniciantes ;).
 
 
